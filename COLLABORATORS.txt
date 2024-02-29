@@ -1,0 +1,19 @@
+Name: Aditya Duggirala
+I spent 7 hours and 55 minutes on this project 
+(Total of 2 hours and 20 mins on Part 1: 30 mins on Prob. 1, 15 mins on Prob. 2, and 1 hrs on Prob 3, 25 mins on Prob 4, and 10 mins on Prob 5)
+(Total of 3 hours mins on Part 2: 1 hr and 25 mins hour on Histogram,  1 hr and 35 mins on Count of White and Black Pixels)
+(Total of 5 mins on Part 3)
+(Total amount of time on PDF) 2 hours and 30 mins
+
+I sought help from Kelly and Gabe 
+
+Kelly helped me with the long run time and Convergence warnings of part one by explaining the meaning of this warning 
+
+Gabe and Kelly (I met Kelly twice )gave me some ideas of what Part 2 is about and what I can do to finish it
+
+The Project One PDF document provided many links to the libraries I used. However, I had to find extra functions using the numpy library for Part 2. They're the histogram, astype function used for the histogram and counting black and white pixels. I also looked up how to edit files to add the columns for the extra features.
+
+
+
+
+

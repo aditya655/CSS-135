@@ -1,0 +1,27 @@
+Name: Aditya Duggirala
+
+I spent 14 hours and 35 minutes on this project 
+
+(Total of 20 hours and 10 mins on Part 1: 1 hour and 30 mins on Prob. 1, 2 hours and 30 mins on Prob. 2, and 2 hrs and 45 mins on Prob 3, 2 hours and 25 mins on Prob 4,   3 hours and 10 mins on Prob 5, and 1 hour and 30 mins on Prob 6 )
+(Total of 45 mins on Part 2: )
+
+Total amount of time on PDF (I included this in the total time for this project, don't add this to the total time for the project) 6 hours and 15 mins
+
+I sought help from Kelly and Gabe.
+
+Kelly helped me with returning the train score using GridSearch by forcing it to return true in the line below
+
+grid_search_svm = GridSearchCV(svm_model, param_grid, cv=5,scoring='accuracy',return_train_score=True)
+
+Gabe helped me with increasing my accuracy rate and reducing my error rate in the leaderboard by telling me to remove words/letters like the, do, a that have a high frequency but low
+importance. 
+
+This led to me using this, specifically the stop_words tfidf_vectorizer = TfidfVectorizer(lowercase=True, max_features=max_features, stop_words=stop_words)
+
+
+The Project Two PDF document provided many links to the libraries I used, including links to other libraries. 
+
+
+
+
+
